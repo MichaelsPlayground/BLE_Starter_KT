@@ -2,6 +2,14 @@
 
 **Note:** This project is currently up-to-date as of `compileSdkVersion` and `targetSdkVersion` of 30 (Android 11). We're working on support for Android 12+ as part of [#14](https://github.com/PunchThrough/ble-starter-android/issues/14).
 
+Original source: https://github.com/PunchThrough/ble-starter-android
+
+Description: https://punchthrough.com/android-ble-guide/
+
+Tips: https://punchthrough.com/android-ble-development-tips/
+
+Note: the description is available as PDF in /docs
+
 ---
 
 [![CircleCI build status](https://circleci.com/gh/PunchThrough/ble-starter-android/tree/master.svg?style=svg)](https://circleci.com/gh/PunchThrough/ble-starter-android/tree/master)
